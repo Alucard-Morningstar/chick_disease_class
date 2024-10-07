@@ -21,7 +21,8 @@ files_lst = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trails.ipynb"
+    "research/trails.ipynb",
+    "templates/index.html"
 ]
 
 for file in files_lst:
