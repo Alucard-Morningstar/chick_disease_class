@@ -1,2 +1,6 @@
 # chick_disease_class
-Chicken Diesease classification - exploring dvc pipelines
+Chicken Diesease classification
+
+    - Exploring DVC pipelines
+    - deploying in aws
+    - 
