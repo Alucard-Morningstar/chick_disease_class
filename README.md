@@ -2,7 +2,7 @@
 Chicken Diesease classification
 
     - Exploring DVC pipelines
-    - deploying in aws
+    - deploying in aws -- to be done
     - 
 
 ## Workflows
